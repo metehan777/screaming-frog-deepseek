@@ -5,7 +5,7 @@ This repository provides a JavaScript snippet for integrating the DeepSeek R1 mo
 ## Prerequisites
 
 1. Screaming Frog SEO Spider installed.
-2. An API key from [OpenRouter](https://openrouter.ai/).
+2. An API key from [OpenRouter]([https://openrouter.ai/](https://openrouter.ai/settings/keys)).
 3. Basic understanding of JavaScript and Screaming Frog's Custom JavaScript feature.
 
 ## Features
